@@ -1,0 +1,28 @@
+.RyTe{
+font-size: 60px;
+font-family: fantasy;
+text-shadow: 2px 2px gray;
+align-items: flex;
+border-bottom:double;
+
+
+}
+
+.quadrado{
+background-color:#6495ED;
+width: 410px;
+height: 500px;
+border-radius: 30px;
+margin-top: 40px;
+border-style: solid;
+border-width: 10px;
+font-size: 30px;
+font-family: Monospace; 
+}
+
+.Fundo{
+background: url(Fotinha.jpg);
+width: 1350px;
+height: 750px; 
+background-size: 100% 100%;
+}
