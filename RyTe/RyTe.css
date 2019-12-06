@@ -1,0 +1,116 @@
+@keyframes Cadastro {
+    50%   {top: 0px; left: 0px; background:#9932CC}
+    25%  {top: 0px; left: 0px; background: blue;}
+    25%  {top: 0px; left: 0px; background: yellow;}
+    
+}
+
+h1{
+    font-size: 70px;
+    color:black;
+    font-family: verdana;
+    text-shadow: 2px 2px grey;
+    margin-right: 2%;
+    font-size: 55px;
+    border-bottom: solid;
+    border-width: 8px;
+    
+    
+}
+
+
+body {
+    background: url(9.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.Cadastro{
+background-color:#87CEFA;
+width: 500px;
+height: 650px;
+border-radius: 30px;
+margin-top: 50px;
+border-style:solid;
+border-width: 10px;
+border-color:black;
+font-size: 18px;
+font-family: fantasy;
+animation: Cadastro 9s infinite;
+position: relative;
+}
+
+.nome{
+margin-right: 160px;
+margin-top: 20px;
+}
+
+.senha{
+margin-right: 160px;
+margin-top: 20px;
+}
+
+.email{
+margin-right: 160px;
+margin-top: 20px;
+}
+
+.datadenascimento{
+    margin-right: 78px;
+    margin-top: 20px;
+}
+#sexo{
+margin-top: 20px;
+margin-right: 120px;
+}
+.cad{
+    margin-right: 170px;
+    margin-top: 380px;
+}
+
+#voltar{
+    width: 80px;
+    height: 40px;
+    border: solid black;
+    border-width: 5px;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: -50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

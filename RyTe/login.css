@@ -1,0 +1,56 @@
+body{
+
+background: url(9.png);
+background-size:100% ;
+
+}
+
+#login{
+background-color: royalblue;
+font-family: Verdana;
+height: 500px;
+width: 550px;
+font-size: 50px;
+margin-top: 100px;
+border:solid;
+border-width: 5px;
+border-radius:20px ;
+
+}
+#usuario{
+margin-top: 100px;
+}
+h1{
+margin-top:-20px;
+font-size: 30px;
+font-family: Verdana;
+}
+
+h2{
+margin-top: 30px;
+font-size: 30px;
+font-family: Verdana;
+}
+
+#voltar{
+    width: 80px;
+    height: 40px;
+    border: solid black;
+    border-width: 5px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-right: 400px;
+}
+
+.input2{
+    border-radius: 8px;
+    
+}
+
+.input{
+    border-radius: 8px;
+
+}
+
+

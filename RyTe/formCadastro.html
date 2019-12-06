@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+    <title> RyTe </title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="Ryte.css">
+    <script src="RyTe.js"> </script>
+</head>
+<body>
+<form action="RyTe.php" method="post" name="formCadastro">
+    <center> 
+    <h1>Tela De Cadastro</h1>  
+    <div class="Cadastro">
+
+    <label for ="Nome:"> Nome: </label>
+    <input type="text" name="nome" class="nome" required/> <br>
+       
+    <label for = "Senha:"> Senha: </label>
+    <input type="password" name="senha" class="senha" required/> <br>
+       
+    <label for = "E-mail:"> E-mail: </label>
+    <input type="email" name="email" class="email" required/> <br>
+       
+    <label for = "Data de Nascimento:">Data de Nascimento: </label> 
+    <input type="date" name="data" class="datadenascimento" required/> <br>
+
+    <div id="sexo"><label for="Sexo"> Sexo:</label>
+    <input type="radio" name="sexo" class="sexom" value="M"/><label>Masculino</label>
+                
+    <input type="radio" name="sexo" class="sexof" value="F" /><label>Feminino</label><br></div>
+                         
+
+    <div class="cad">
+                    
+        <input type="button" id="voltar" type="button" onclick="link();" value="Voltar">
+
+        <input type="submit" id="voltar" value="Enviar">
+            
+    </center>
+            
+    </div>
+        
+</form> 
+</div>     
+</body>         
+</html>
